@@ -1,0 +1,64 @@
+*{
+  margin: 0;
+  padding: 0;
+  
+}
+body {
+    background: url('latar belakang Latar Belakang Poster Fesyen Corak Dakwat Percikan Abstrak Hitam Dan Putih Imej Kertas Dinding Untuk Muat Turun Percuma - Pngtree.jpg')no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.nama {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    min-height: 100px;
+    font-size: 60px;
+}
+
+.fa-instagram {
+    color: rgb(7, 7, 7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100px;
+    font-size: 50px;
+  }
+
+  img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 50px;
+        width: 200;
+        height: 200; 
+        min-height: 100px;
+  }
+
+  .head {
+    
+  }
+
+.tik-tok {
+  color: rgb(7, 7, 7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100px;
+    font-size: 50px;
+
+}
+ 
+.tiktok-fontawesomeicon {
+  color: rgb(7, 7, 7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100px;
+  font-size: 50px;
+ 
+}
+
